@@ -1,6 +1,6 @@
 # Nexa Offline AI
 
-Private multi-module Android project for an offline-first AI assistant experience.
+Multi-module Android project for an offline-first AI assistant experience focused on productivity, local workflows, and modular feature development.
 
 ## Stack
 
@@ -17,7 +17,7 @@ Private multi-module Android project for an offline-first AI assistant experienc
 
 ## Status
 
-- private project
+- public project
 - active prototype
 
 Built by Nishant Kumar
